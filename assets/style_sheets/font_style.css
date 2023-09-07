@@ -101,3 +101,13 @@ table {
 html{
     color: #003B36;
 }
+
+/* ---line-height --- */
+body{
+    line-height: 32px;
+    height: 32px;
+}
+
+.btn{
+    height: 42px;
+}
